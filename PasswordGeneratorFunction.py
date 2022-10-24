@@ -16,3 +16,5 @@ def pass_generator ():
     x.append(i[0])
 
   resulte = ''.join([str(elem) for elem in x])
+  
+  return resulte
